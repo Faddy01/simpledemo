@@ -1,2 +1,2 @@
 # simpledemo
-i am learning to make changes in file
+i am cloning
